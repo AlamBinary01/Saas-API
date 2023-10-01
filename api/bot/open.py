@@ -2,7 +2,7 @@ import csv
 import openai
 import json
 
-openai.api_key = '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'
+openai.api_key = 'YOUR_API_KEY'
 
 # Function to get a response from OpenAI GPT-3
 def get_openai_response(prompt):
